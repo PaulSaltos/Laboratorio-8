@@ -86,6 +86,9 @@ Instalamos las  fuente de voltaje
 
 Efectuar y registrar las siguientes mediciones con el Multimetro digital
 
+![image](https://user-images.githubusercontent.com/85178869/132363610-edfc7cdd-7ed5-48cb-8765-592687b066c2.png)
+
+
 # 4. ANALISIS DE RESULTADOS 
 
 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
@@ -94,28 +97,43 @@ Para cada uno de los circuitos anteriores, elabore una tabla con los resultados 
 
 •	CONECTE EL ESCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO 
 
+![image](https://user-images.githubusercontent.com/85178869/132363610-edfc7cdd-7ed5-48cb-8765-592687b066c2.png)
+
 ![image](https://user-images.githubusercontent.com/85178869/132362917-906d6ea5-ae08-4173-8a8e-8bd55f5f7f7d.png)
 
-. PREGUNTAS 
+![image](https://user-images.githubusercontent.com/85178869/132364578-e15e8cbc-ddf1-472b-9418-052771893544.png)
+
+
+ PREGUNTAS 
 1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
+
 
 2. ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
+Valor de 3
+
 3. ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
+
+Valor de 4
 
 4. ¿En que valor esta posicionada la perilla TIME/DIV?
 
+
+
 5. ¿Cuál es la amplitud de voltaje y periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje:   (v)
-Periodo:    (s)
+Amplitud de voltaje: 6.85v  (v)
+Periodo:   4ms a 0.004s (s)
 
 6. ¿Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida?
 
-F:     (Hz)
-W:    (rad/s)
+F:   250  (Hz)
+W: 500pi   (rad/s)
 
 7. ¿Con el multímetro digital mida el voltaje de salida en RL?
+
+
 
 # 5. Video
 
