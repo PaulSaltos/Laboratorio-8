@@ -106,7 +106,7 @@ Para cada uno de los circuitos anteriores, elabore una tabla con los resultados 
  PREGUNTAS 
 1. ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-
+Hay 2 devisiones por cuadro
 
 2. ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
@@ -123,16 +123,20 @@ Valor de 4
 5. ¿Cuál es la amplitud de voltaje y periodo de la señal que aparece en la pantalla del osciloscopio?
 
 Amplitud de voltaje: 6.85v  (v)
+
 Periodo:   4ms a 0.004s (s)
 
 6. ¿Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida?
 
 F:   250  (Hz)
+
 W: 500pi   (rad/s)
 
 7. ¿Con el multímetro digital mida el voltaje de salida en RL?
 
 
+8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+¿Coinciden? No coinciden los voltajes  ¿Por qué? 4,17 v coincide por que estaobtenido en rms y el voltaje que esta en el osiloscopio esta en pico 
 
 # 5. Video
 
