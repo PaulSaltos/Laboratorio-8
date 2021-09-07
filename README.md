@@ -134,6 +134,7 @@ W: 500pi   (rad/s)
 
 7. ¿Con el multímetro digital mida el voltaje de salida en RL?
 
+El voltaje mide 4.819 v lasalida en Rl 
 
 8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 ¿Coinciden? No coinciden los voltajes  ¿Por qué? 4,17 v coincide por que estaobtenido en rms y el voltaje que esta en el osiloscopio esta en pico 
