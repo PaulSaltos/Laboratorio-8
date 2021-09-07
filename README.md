@@ -118,7 +118,7 @@ Valor de 4
 
 4. ¿En que valor esta posicionada la perilla TIME/DIV?
 
-
+valor es 0.1ms
 
 5. ¿Cuál es la amplitud de voltaje y periodo de la señal que aparece en la pantalla del osciloscopio?
 
