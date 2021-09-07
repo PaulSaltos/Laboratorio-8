@@ -99,7 +99,6 @@ Para cada uno de los circuitos anteriores, elabore una tabla con los resultados 
 
 ![image](https://user-images.githubusercontent.com/85178869/132363610-edfc7cdd-7ed5-48cb-8765-592687b066c2.png)
 
-![image](https://user-images.githubusercontent.com/85178869/132362917-906d6ea5-ae08-4173-8a8e-8bd55f5f7f7d.png)
 
 ![image](https://user-images.githubusercontent.com/85178869/132364578-e15e8cbc-ddf1-472b-9418-052771893544.png)
 
